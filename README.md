@@ -9,8 +9,3 @@ This was a fun project I undertook in 2020 as an exercise in object detection. M
 
 ## Dataset
 The data used in this project comes from a stream of labeled images taken from a car, from this [Kaggle dataset](https://www.kaggle.com/datasets/alincijov/self-driving-cars) created by Alin Cijov.
-
-## Paper
-
-A PDF version of the paper I mentioned in the introduction can be found [here](placeholder)
-
